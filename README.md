@@ -2,7 +2,7 @@
 
 <h3>Server</h3>
 
-1. Navigate to [project/server](projects/server) folder and run `npm install` to install project's dependencies
+1. Navigate to [project/server](./project/server) folder and run `npm install` to install project's dependencies
 
 2. Run `npm run knex:migrate` to create the database
 
